@@ -2,7 +2,7 @@
   "name": "birthday-wisher",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shubhlpu.github.io/birthday-wisher",
+  "homepage": "https://shubhlpu.github.io/Birthday-wisher",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
